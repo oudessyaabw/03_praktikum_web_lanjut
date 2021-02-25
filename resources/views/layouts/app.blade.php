@@ -35,6 +35,8 @@
             @yield('content')
         </div>
         <div class="cleaner_with_height">&nbsp;</div>
+
+        @include('components.footer')
     </div>
 </body>
 

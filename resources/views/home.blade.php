@@ -10,8 +10,8 @@
         <div class="product_info">
             <p>Etiam luctus. Quisque facilisis suscipit elit. Curabitur...</p>
             <h3>$55</h3>
-            <div class="buy_now_button"><a href="subpage.html">Buy Now</a></div>
-            <div class="detail_button"><a href="subpage.html">Detail</a></div>
+            <div class="buy_now_button"><a href="">Buy Now</a></div>
+            <div class="detail_button"><a href="">Detail</a></div>
         </div>
         <div class="cleaner">&nbsp;</div>
     </div>
@@ -24,8 +24,8 @@
         <div class="product_info">
             <p>Aliquam a dui, ac magna quis est eleifend dictum.</p>
             <h3>$35</h3>
-            <div class="buy_now_button"><a href="subpage.html">Buy Now</a></div>
-            <div class="detail_button"><a href="subpage.html">Detail</a></div>
+            <div class="buy_now_button"><a href="">Buy Now</a></div>
+            <div class="detail_button"><a href="">Detail</a></div>
         </div>
         <div class="cleaner">&nbsp;</div>
     </div>
@@ -38,8 +38,8 @@
         <div class="product_info">
             <p>Ut fringilla enim sed turpis. Sed justo dolor, convallis at.</p>
             <h3>$65</h3>
-            <div class="buy_now_button"><a href="subpage.html">Buy Now</a></div>
-            <div class="detail_button"><a href="subpage.html">Detail</a></div>
+            <div class="buy_now_button"><a href="">Buy Now</a></div>
+            <div class="detail_button"><a href="">Detail</a></div>
         </div>
         <div class="cleaner">&nbsp;</div>
     </div>
@@ -52,8 +52,8 @@
         <div class="product_info">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
             <h3>$45</h3>
-            <div class="buy_now_button"><a href="subpage.html">Buy Now</a></div>
-            <div class="detail_button"><a href="subpage.html">Detail</a></div>
+            <div class="buy_now_button"><a href="">Buy Now</a></div>
+            <div class="detail_button"><a href="">Detail</a></div>
         </div>
         <div class="cleaner">&nbsp;</div>
     </div>
