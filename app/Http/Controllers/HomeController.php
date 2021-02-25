@@ -58,4 +58,8 @@ class HomeController extends Controller
             return view('detail', $data);
         }
     }
+    public function contact()
+    {
+        return view("contact");
+    }
 }
