@@ -1,10 +1,7 @@
 <div id="templatemo_menu">
     <ul>
-        <li><a href="" class="current">Home</a></li>
-        <li><a href="">Search</a></li>
-        <li><a href="">Books</a></li>
-        <li><a href="">New Releases</a></li>
-        <li><a href="#">Company</a></li>
+        <li><a href="{{url("/")}}" class="current">Home</a></li>
+        <li><a href="{{url("books")}}">Books</a></li>
         <li><a href="#">Contact</a></li>
     </ul>
 </div> <!-- end of menu -->
@@ -15,16 +12,14 @@
             <span>25%</span> discounts for
             purchase over $80
         </p>
-        <a href="subpage.html" style="margin-left: 50px;">Read more...</a>
     </div>
 
 
     <div id="templatemo_new_books">
         <ul>
-            <li>Suspen disse</li>
-            <li>Maece nas metus</li>
-            <li>In sed risus ac feli</li>
+            <li>Cooking</li>
+            <li>Sushi Book</li>
+            <li>Gardening</li>
         </ul>
-        <a href="subpage.html" style="margin-left: 50px;">Read more...</a>
     </div>
 </div> <!-- end of header -->
