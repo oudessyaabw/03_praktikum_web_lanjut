@@ -2,7 +2,8 @@
     <ul>
         <li><a href="{{url("/")}}" class="current">Home</a></li>
         <li><a href="{{url("books")}}">Books</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="{{url("contact")}}">Contact Us</a></li>
+
     </ul>
 </div> <!-- end of menu -->
 

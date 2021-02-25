@@ -15,4 +15,6 @@ use Illuminate\Support\Facades\Auth;
 */
 
 Route::get('/', [HomeController::class, 'index']);
+Route::get('/books', [HomeController::class, 'index']);
 Route::get('/details/{id}', [HomeController::class, 'detail']);
+Route::get('/contact', [HomeController::class, 'contact']);
