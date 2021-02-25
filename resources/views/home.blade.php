@@ -1,4 +1,7 @@
 @extends('layouts.app')
+@section('title')
+Bookstore Home
+@endsection
 
 @section('content')
 
@@ -11,7 +14,7 @@
             <p>Etiam luctus. Quisque facilisis suscipit elit. Curabitur...</p>
             <h3>$55</h3>
             <div class="buy_now_button"><a href="">Buy Now</a></div>
-            <div class="detail_button"><a href="">Detail</a></div>
+            <div class="detail_button"><a href="{{url("details/photography")}}">Detail</a></div>
         </div>
         <div class="cleaner">&nbsp;</div>
     </div>
@@ -25,7 +28,7 @@
             <p>Aliquam a dui, ac magna quis est eleifend dictum.</p>
             <h3>$35</h3>
             <div class="buy_now_button"><a href="">Buy Now</a></div>
-            <div class="detail_button"><a href="">Detail</a></div>
+            <div class="detail_button"><a href="{{url("details/cooking")}}">Detail</a></div>
         </div>
         <div class="cleaner">&nbsp;</div>
     </div>
@@ -39,7 +42,7 @@
             <p>Ut fringilla enim sed turpis. Sed justo dolor, convallis at.</p>
             <h3>$65</h3>
             <div class="buy_now_button"><a href="">Buy Now</a></div>
-            <div class="detail_button"><a href="">Detail</a></div>
+            <div class="detail_button"><a href="{{url("details/gardening")}}">Detail</a></div>
         </div>
         <div class="cleaner">&nbsp;</div>
     </div>
@@ -53,7 +56,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
             <h3>$45</h3>
             <div class="buy_now_button"><a href="">Buy Now</a></div>
-            <div class="detail_button"><a href="">Detail</a></div>
+            <div class="detail_button"><a href="{{url("details/sushi")}}">Detail</a></div>
         </div>
         <div class="cleaner">&nbsp;</div>
     </div>
