@@ -32,12 +32,9 @@
             @include('components.sidebar')
 
             {{-- right bar --}}
-
-
-
+            @yield('content')
         </div>
         <div class="cleaner_with_height">&nbsp;</div>
-
     </div>
 </body>
 
