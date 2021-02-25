@@ -15,3 +15,4 @@ use Illuminate\Support\Facades\Auth;
 */
 
 Route::get('/', [HomeController::class, 'index']);
+Route::get('/details/{id}', [HomeController::class, 'detail']);
