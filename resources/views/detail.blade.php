@@ -1,4 +1,7 @@
 @extends('layouts.app')
+@section('title')
+{{$book['title']}}
+@endsection
 
 @section('content')
 <div id="templatemo_content_right">
